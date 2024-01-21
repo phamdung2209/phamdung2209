@@ -7,7 +7,7 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fgiphy.gif?alt=media&token=e92f9416-8187-4ffa-a38c-47842be32451"/>
 
 ## About me
-### ✨ Creating bugs since 2022
+### ✨ Creating bugs since 2023
 ### 📚 I'm a Techie nerd
 ### 🎯 Goals: Hustle to get into 0.1%
 ### 🎲 Fun fact: If its working, don’t touch it
