@@ -24,14 +24,14 @@
 ## 🛠️Skills
 ### I Code in
 
-[![I Code in](https://skillicons.dev/icons?i=js,php,cs,java)](https://github.com/phamdung2209)
+[![I Code in](https://skillicons.dev/icons?i=js,ts,php,cs,java)](https://github.com/phamdung2209)
 
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react)](https://github.com/phamdung2209)
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs)](https://github.com/phamdung2209)
 
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=laravel,mysql,aws,gcp)](https://github.com/phamdung2209)
+[![Backend](https://skillicons.dev/icons?i=laravel,mysql,mongodb,express,nodejs,linux,aws,gcp)](https://github.com/phamdung2209)
 
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,vscode,idea)](https://github.com/phamdung2209)
