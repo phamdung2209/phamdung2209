@@ -47,7 +47,7 @@
     <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamdung2209&langs_count=10&show_icons=true&locale=en&theme=radical" alt="phamdung2209" /></td>
      
   </tr>
-
+</table>
 
 ### 🏆 GitHub Trophies
 
