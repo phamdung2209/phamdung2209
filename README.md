@@ -1,77 +1,77 @@
-# I'm [Pham Van Dung](https://github.com/phamdung2209)👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Pham Van Dung, full-stack developer building Shopify apps" src="assets/header-light.svg" width="100%">
+</picture>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Full+Stack+Web+Developer;I'm+a+Techie+Nerd)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://dungpv.id.vn"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://solora.dungpv.id.vn"><img src="https://img.shields.io/badge/Solora_apps-f97316?style=for-the-badge&logo=shopify&logoColor=white" alt="Solora"></a>
+  <a href="https://www.linkedin.com/in/phamdung2209"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:phamdung.22092003@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
+I build Shopify apps end to end: React admin UIs, Node.js services and the storefront and checkout code that runs on merchants' stores.
 
+- 🛍️ **At [Mageplaza](https://www.mageplaza.com)** since 2024, on apps used by **10,000+ merchants**.
+- 🚀 **On my own**, I took two apps from an empty repository to the **Shopify App Store**.
+- 🤖 **Next**, I want to build AI-powered workflows for merchants.
 
-<img align="right" height="250" width="400" alt="GIF" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fgiphy.gif?alt=media&token=e92f9416-8187-4ffa-a38c-47842be32451"/>
-
-## About me
-### ✨ Creating bugs since 2022
-### 📚 I'm a Techie nerd
-### 🎯 Goals: Hustle to get into 0.1%
-### 🎲 Fun fact: If its working, don’t touch it
-
-<br>
-
-## 🚀 Connect with me
-[![Github](https://skillicons.dev/icons?i=github)](https://github.com/phamdung2209)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/phamdung2209/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/phamdung.22092003)
-<br>
-📫 How to reach me **phamdung.22092003@gmail.com**
-
-## 🛠️Skills
-### I Code in
-
-[![I Code in](https://skillicons.dev/icons?i=js,ts,php,cs,java)](https://github.com/phamdung2209)
-
-
-### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs)](https://github.com/phamdung2209)
-
-### Backend
-[![Backend](https://skillicons.dev/icons?i=laravel,mysql,mongodb,express,nodejs,linux,aws,gcp)](https://github.com/phamdung2209)
-
-### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,vscode,idea)](https://github.com/phamdung2209)
-
-<hr>
-
-## 📊Github Stats
+## 🚢 Apps I built and run
 
 <table>
   <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=phamdung2209&show_icons=true&locale=en&theme=radical" alt="phamdung2209" /></td>
-    <td><img align= "center" alt="Abhi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=phamdung2209&theme=radical"/></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamdung2209&langs_count=10&show_icons=true&locale=en&theme=radical" alt="phamdung2209" /></td>
-     
+    <td width="88" align="center"><img src="https://dungpv.id.vn/projects/mixly/icon.png" width="56" alt="Mixly"></td>
+    <td>
+      <b><a href="https://apps.shopify.com/solora-mixly-bundles">Mixly: Bundles &amp; BOGO</a></b> &nbsp;<img src="https://img.shields.io/badge/live-App_Store-22c55e?style=flat-square" alt="live"><br>
+      Frequently-bought-together, mix-and-match and BOGO offers. A bundle is a rule checked against the cart, so the app never creates extra products or SKUs.<br>
+      <sub>The same rule runs twice, in Liquid on the storefront and in a Shopify Function at checkout. A differential fuzz test over <b>364,500</b> rule × cart pairs keeps the two in agreement. <b>1,100+</b> tests.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://dungpv.id.vn/projects/tierly/icon.png" width="56" alt="Tierly"></td>
+    <td>
+      <b><a href="https://apps.shopify.com/solora-tierly">Tierly: Quantity Breaks</a></b> &nbsp;<img src="https://img.shields.io/badge/live-App_Store-22c55e?style=flat-square" alt="live"><br>
+      Volume discounts priced inside checkout by a Shopify Function (TypeScript compiled to WebAssembly), not by theme JavaScript.<br>
+      <sub>From empty repository to App Store in one month. <b>500+</b> tests. Stores no customer personal data.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://dungpv.id.vn/projects/swatchbox/icon.png" width="56" alt="Swatchbox"></td>
+    <td>
+      <b><a href="https://dungpv.id.vn/projects/solora-swatchbox">Swatchbox: Combined Listings</a></b> &nbsp;<img src="https://img.shields.io/badge/in-development-eab308?style=flat-square" alt="in development"><br>
+      Colour swatches that link separate products into one listing, on product pages and collection grids.
+    </td>
   </tr>
 </table>
 
-### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://dungpv.id.vn/projects/tierly/tier-ladder.webp" width="49%" alt="Tierly tier ladder on a product page">
+  <img src="https://dungpv.id.vn/projects/mixly/bundle-offer.webp" width="49%" alt="Mixly bundle offer on a product page">
+</p>
 
-![](https://github-profile-trophy.vercel.app/?username=phamdung2209&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏢 At Mageplaza
 
-![](https://i.imgur.com/waxVImv.png)
+| App | What I did |
+| --- | --- |
+| **Instagram Feed** | Core developer and top contributor. Cut the storefront bundle by ~70% (**~100 KB → 28 KB**) with code splitting and lazy loading, and moved feed data to the Storefront API. |
+| **Size Chart** | Built an AI importer on **Gemini vision**: a merchant uploads a chart image and gets structured, editable chart data back, with a preview before applying. |
+| **Product Quiz** | Main developer since early 2025: admin, backend and the storefront quiz. |
 
-<!-- 
+## 📦 Open source
 
-<h2 align="center">
-<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31"/>
-<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31"/>
-<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31"/>
-<img src="https://komarev.com/ghpvc/?username=phamdung2209&&style=round-square" align="center" />
-<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31"/>
-<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31"/>
-<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31"/>
-</h2>
+- **[hank-zilla](https://github.com/phamdung2209/hank_zilla)**: global React state without Providers, built on `useSyncExternalStore`. Zero dependencies, published on [npm](https://www.npmjs.com/package/hank-zilla).
+- **[Cipher](https://github.com/phamdung2209/Cipher)**: an AI chat client with streaming responses and visible model reasoning, built with Next.js.
+- **[solora](https://github.com/phamdung2209/solora)**: the static marketing and docs site for my Shopify apps.
 
+## 🧰 Stack
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=phamdung2209&theme=dracula&no-frame=false&no-bg=false&margin-w=4) 
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,prisma,firebase,gcp,mongodb,docker,git,vitest&perline=14" alt="Tech stack">
+</p>
 
-[![@Abhi's Holopin board](https://holopin.me/phamdung2209)](https://holopin.io/@keshavop)
+**Shopify:** Admin & Storefront GraphQL · Functions · Theme App Extensions · Metafields · Webhooks · Liquid · Polaris<br>
+**AI:** Gemini API (vision) · prompt design for structured JSON · Claude Code
 
--->
+---
 
+<p align="center"><sub>Most of my work lives in private repositories. The apps and the <a href="https://dungpv.id.vn">portfolio</a> tell the rest of the story.</sub></p>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0b14"/><stop offset="1" stop-color="#1a1033"/></linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a855f7"/><stop offset=".5" stop-color="#6366f1"/><stop offset="1" stop-color="#0ea5e9"/></linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.1" r="0.6"><stop offset="0" stop-color="#6366f1" stop-opacity=".35"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff10" stroke-width="1"/></pattern>
+  </defs>
+  <style>
+    text{font-family:'Segoe UI',Inter,-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
+    .in{opacity:0;animation:in .8s ease-out forwards}
+    .d1{animation-delay:.15s}.d2{animation-delay:.35s}.d3{animation-delay:.55s}
+    .orb{animation:float 9s ease-in-out infinite}
+    @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+    @keyframes float{0%,100%{transform:translate(0,0)}50%{transform:translate(-30px,14px)}}
+    @media (prefers-reduced-motion:reduce){.in{animation:none;opacity:1}.orb{animation:none}}
+  </style>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <rect class="orb" width="1200" height="300" rx="20" fill="url(#glow)"/>
+  <text class="in" x="64" y="92" font-size="18" font-weight="600" letter-spacing="3" fill="#a1a1b5">HI, I'M HANK</text>
+  <text class="in d1" x="62" y="160" font-size="60" font-weight="800" fill="#f5f5f7">Pham Van <tspan fill="url(#brand)">Dung</tspan></text>
+  <text class="in d2" x="64" y="208" font-size="24" font-weight="500" fill="#f5f5f7" fill-opacity=".85">Full-stack developer building Shopify apps for 10,000+ merchants</text>
+  <text class="in d3" x="64" y="248" font-size="18" fill="#a1a1b5">React · Node.js · TypeScript · Shopify Functions · Hanoi, Vietnam</text>
+</svg>
